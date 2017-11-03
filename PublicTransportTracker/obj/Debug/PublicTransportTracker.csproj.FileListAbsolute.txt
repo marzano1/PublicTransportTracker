@@ -1,0 +1,261 @@
+c:\users\marzano\documents\visual studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\roslyn\csc.exe
+c:\users\marzano\documents\visual studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\marzano\documents\visual studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\marzano\documents\visual studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\marzano\documents\visual studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\marzano\documents\visual studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\marzano\documents\visual studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\marzano\documents\visual studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\roslyn\System.Collections.Immutable.dll
+c:\users\marzano\documents\visual studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\marzano\documents\visual studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\roslyn\vbc.exe
+c:\users\marzano\documents\visual studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\roslyn\VBCSCompiler.exe
+c:\users\marzano\documents\visual studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\roslyn\VBCSCompiler.exe.config
+c:\users\marzano\documents\visual studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\PublicTransportTracker.dll.config
+c:\users\marzano\documents\visual studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\PublicTransportTracker.dll
+c:\users\marzano\documents\visual studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\PublicTransportTracker.pdb
+c:\users\marzano\documents\visual studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\Antlr3.Runtime.dll
+c:\users\marzano\documents\visual studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\EntityFramework.dll
+c:\users\marzano\documents\visual studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\EntityFramework.SqlServer.dll
+c:\users\marzano\documents\visual studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\marzano\documents\visual studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\marzano\documents\visual studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\marzano\documents\visual studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\marzano\documents\visual studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\Microsoft.Owin.dll
+c:\users\marzano\documents\visual studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\marzano\documents\visual studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\marzano\documents\visual studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\Microsoft.Owin.Security.dll
+c:\users\marzano\documents\visual studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\marzano\documents\visual studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\Microsoft.Owin.Security.Google.dll
+c:\users\marzano\documents\visual studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\marzano\documents\visual studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\marzano\documents\visual studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\marzano\documents\visual studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\Microsoft.Web.Infrastructure.dll
+c:\users\marzano\documents\visual studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\Newtonsoft.Json.dll
+c:\users\marzano\documents\visual studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\Owin.dll
+c:\users\marzano\documents\visual studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\System.Web.Helpers.dll
+c:\users\marzano\documents\visual studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\System.Web.Mvc.dll
+c:\users\marzano\documents\visual studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\System.Web.Optimization.dll
+c:\users\marzano\documents\visual studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\System.Web.Razor.dll
+c:\users\marzano\documents\visual studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\System.Web.WebPages.Deployment.dll
+c:\users\marzano\documents\visual studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\System.Web.WebPages.dll
+c:\users\marzano\documents\visual studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\System.Web.WebPages.Razor.dll
+c:\users\marzano\documents\visual studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\WebGrease.dll
+c:\users\marzano\documents\visual studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\marzano\documents\visual studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\System.Web.Helpers.xml
+c:\users\marzano\documents\visual studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\System.Web.Mvc.xml
+c:\users\marzano\documents\visual studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\System.Web.Optimization.xml
+c:\users\marzano\documents\visual studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\System.Web.Razor.xml
+c:\users\marzano\documents\visual studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\System.Web.WebPages.xml
+c:\users\marzano\documents\visual studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\System.Web.WebPages.Deployment.xml
+c:\users\marzano\documents\visual studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\System.Web.WebPages.Razor.xml
+c:\users\marzano\documents\visual studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\Antlr3.Runtime.pdb
+c:\users\marzano\documents\visual studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\Newtonsoft.Json.xml
+c:\users\marzano\documents\visual studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\EntityFramework.xml
+c:\users\marzano\documents\visual studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\EntityFramework.SqlServer.xml
+c:\users\marzano\documents\visual studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\marzano\documents\visual studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\marzano\documents\visual studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\marzano\documents\visual studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\Microsoft.Owin.xml
+c:\users\marzano\documents\visual studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\marzano\documents\visual studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\Microsoft.Owin.Security.xml
+c:\users\marzano\documents\visual studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\marzano\documents\visual studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\marzano\documents\visual studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\marzano\documents\visual studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\Microsoft.Owin.Security.Google.xml
+c:\users\marzano\documents\visual studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\marzano\documents\visual studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\marzano\documents\visual studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\obj\Debug\PublicTransportTracker.csprojResolveAssemblyReference.cache
+c:\users\marzano\documents\visual studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\obj\Debug\PublicTransportTracker.dll
+c:\users\marzano\documents\visual studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\obj\Debug\PublicTransportTracker.pdb
+C:\Users\marzano\Documents\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\AWSSDK.Core.dll
+C:\Users\marzano\Documents\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\AWSSDK.ElasticBeanstalk.dll
+C:\Users\marzano\Documents\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\AWSSDK.Core.pdb
+C:\Users\marzano\Documents\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\AWSSDK.Core.xml
+C:\Users\marzano\Documents\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\AWSSDK.ElasticBeanstalk.pdb
+C:\Users\marzano\Documents\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\AWSSDK.ElasticBeanstalk.xml
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\roslyn\csc.exe
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\roslyn\vbc.exe
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\roslyn\VBCSCompiler.exe
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\PublicTransportTracker.dll.config
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\PublicTransportTracker.dll
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\PublicTransportTracker.pdb
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\Antlr3.Runtime.dll
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\AWSSDK.Core.dll
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\AWSSDK.ElasticBeanstalk.dll
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\EntityFramework.dll
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\EntityFramework.SqlServer.dll
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\Microsoft.Owin.dll
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\Microsoft.Owin.Security.dll
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\Microsoft.VisualStudio.TestPlatform.UnitTestFramework.dll
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\Newtonsoft.Json.dll
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\Npgsql.dll
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\Owin.dll
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\System.Web.Helpers.dll
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\System.Web.Mvc.dll
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\System.Web.Optimization.dll
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\System.Web.Razor.dll
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\System.Web.WebPages.dll
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\System.Web.WebPages.Razor.dll
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\WebGrease.dll
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\AWSSDK.Core.pdb
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\AWSSDK.Core.xml
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\AWSSDK.ElasticBeanstalk.pdb
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\AWSSDK.ElasticBeanstalk.xml
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\Npgsql.xml
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\System.Web.Helpers.xml
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\System.Web.Mvc.xml
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\System.Web.Optimization.xml
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\System.Web.Razor.xml
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\System.Web.WebPages.xml
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\System.Web.WebPages.Razor.xml
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\Antlr3.Runtime.pdb
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\Newtonsoft.Json.xml
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\EntityFramework.xml
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\EntityFramework.SqlServer.xml
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\Microsoft.Owin.xml
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\Microsoft.Owin.Security.xml
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\obj\Debug\PublicTransportTracker.dll
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\obj\Debug\PublicTransportTracker.pdb
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\obj\Debug\PublicTransportTracker.csprojResolveAssemblyReference.cache
+C:\Users\marzano\Downloads\STR\PublicTransportTracker\PublicTransportTracker\obj\Debug\PublicTransportTracker.csprojResolveAssemblyReference.cache
+C:\Users\marzano\Downloads\STR\PublicTransportTracker\PublicTransportTracker\bin\roslyn\csc.exe
+C:\Users\marzano\Downloads\STR\PublicTransportTracker\PublicTransportTracker\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\marzano\Downloads\STR\PublicTransportTracker\PublicTransportTracker\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\marzano\Downloads\STR\PublicTransportTracker\PublicTransportTracker\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\marzano\Downloads\STR\PublicTransportTracker\PublicTransportTracker\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\marzano\Downloads\STR\PublicTransportTracker\PublicTransportTracker\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\marzano\Downloads\STR\PublicTransportTracker\PublicTransportTracker\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\marzano\Downloads\STR\PublicTransportTracker\PublicTransportTracker\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\marzano\Downloads\STR\PublicTransportTracker\PublicTransportTracker\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\marzano\Downloads\STR\PublicTransportTracker\PublicTransportTracker\bin\roslyn\vbc.exe
+C:\Users\marzano\Downloads\STR\PublicTransportTracker\PublicTransportTracker\bin\roslyn\VBCSCompiler.exe
+C:\Users\marzano\Downloads\STR\PublicTransportTracker\PublicTransportTracker\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\marzano\Downloads\STR\PublicTransportTracker\PublicTransportTracker\bin\PublicTransportTracker.dll.config
+C:\Users\marzano\Downloads\STR\PublicTransportTracker\PublicTransportTracker\bin\PublicTransportTracker.dll
+C:\Users\marzano\Downloads\STR\PublicTransportTracker\PublicTransportTracker\bin\PublicTransportTracker.pdb
+C:\Users\marzano\Downloads\STR\PublicTransportTracker\PublicTransportTracker\bin\Antlr3.Runtime.dll
+C:\Users\marzano\Downloads\STR\PublicTransportTracker\PublicTransportTracker\bin\AWSSDK.Core.dll
+C:\Users\marzano\Downloads\STR\PublicTransportTracker\PublicTransportTracker\bin\AWSSDK.ElasticBeanstalk.dll
+C:\Users\marzano\Downloads\STR\PublicTransportTracker\PublicTransportTracker\bin\EntityFramework.dll
+C:\Users\marzano\Downloads\STR\PublicTransportTracker\PublicTransportTracker\bin\EntityFramework.SqlServer.dll
+C:\Users\marzano\Downloads\STR\PublicTransportTracker\PublicTransportTracker\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\marzano\Downloads\STR\PublicTransportTracker\PublicTransportTracker\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\marzano\Downloads\STR\PublicTransportTracker\PublicTransportTracker\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\marzano\Downloads\STR\PublicTransportTracker\PublicTransportTracker\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\marzano\Downloads\STR\PublicTransportTracker\PublicTransportTracker\bin\Microsoft.Owin.dll
+C:\Users\marzano\Downloads\STR\PublicTransportTracker\PublicTransportTracker\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\marzano\Downloads\STR\PublicTransportTracker\PublicTransportTracker\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\marzano\Downloads\STR\PublicTransportTracker\PublicTransportTracker\bin\Microsoft.Owin.Security.dll
+C:\Users\marzano\Downloads\STR\PublicTransportTracker\PublicTransportTracker\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\marzano\Downloads\STR\PublicTransportTracker\PublicTransportTracker\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\marzano\Downloads\STR\PublicTransportTracker\PublicTransportTracker\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\marzano\Downloads\STR\PublicTransportTracker\PublicTransportTracker\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\marzano\Downloads\STR\PublicTransportTracker\PublicTransportTracker\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\marzano\Downloads\STR\PublicTransportTracker\PublicTransportTracker\bin\Microsoft.VisualStudio.TestPlatform.UnitTestFramework.dll
+C:\Users\marzano\Downloads\STR\PublicTransportTracker\PublicTransportTracker\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\marzano\Downloads\STR\PublicTransportTracker\PublicTransportTracker\bin\Newtonsoft.Json.dll
+C:\Users\marzano\Downloads\STR\PublicTransportTracker\PublicTransportTracker\bin\Npgsql.dll
+C:\Users\marzano\Downloads\STR\PublicTransportTracker\PublicTransportTracker\bin\Owin.dll
+C:\Users\marzano\Downloads\STR\PublicTransportTracker\PublicTransportTracker\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\marzano\Downloads\STR\PublicTransportTracker\PublicTransportTracker\bin\System.Web.Helpers.dll
+C:\Users\marzano\Downloads\STR\PublicTransportTracker\PublicTransportTracker\bin\System.Web.Mvc.dll
+C:\Users\marzano\Downloads\STR\PublicTransportTracker\PublicTransportTracker\bin\System.Web.Optimization.dll
+C:\Users\marzano\Downloads\STR\PublicTransportTracker\PublicTransportTracker\bin\System.Web.Razor.dll
+C:\Users\marzano\Downloads\STR\PublicTransportTracker\PublicTransportTracker\bin\System.Web.WebPages.Deployment.dll
+C:\Users\marzano\Downloads\STR\PublicTransportTracker\PublicTransportTracker\bin\System.Web.WebPages.dll
+C:\Users\marzano\Downloads\STR\PublicTransportTracker\PublicTransportTracker\bin\System.Web.WebPages.Razor.dll
+C:\Users\marzano\Downloads\STR\PublicTransportTracker\PublicTransportTracker\bin\WebGrease.dll
+C:\Users\marzano\Downloads\STR\PublicTransportTracker\PublicTransportTracker\bin\AWSSDK.Core.pdb
+C:\Users\marzano\Downloads\STR\PublicTransportTracker\PublicTransportTracker\bin\AWSSDK.Core.xml
+C:\Users\marzano\Downloads\STR\PublicTransportTracker\PublicTransportTracker\bin\AWSSDK.ElasticBeanstalk.pdb
+C:\Users\marzano\Downloads\STR\PublicTransportTracker\PublicTransportTracker\bin\AWSSDK.ElasticBeanstalk.xml
+C:\Users\marzano\Downloads\STR\PublicTransportTracker\PublicTransportTracker\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\marzano\Downloads\STR\PublicTransportTracker\PublicTransportTracker\bin\Npgsql.xml
+C:\Users\marzano\Downloads\STR\PublicTransportTracker\PublicTransportTracker\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\marzano\Downloads\STR\PublicTransportTracker\PublicTransportTracker\bin\System.Web.Helpers.xml
+C:\Users\marzano\Downloads\STR\PublicTransportTracker\PublicTransportTracker\bin\System.Web.Mvc.xml
+C:\Users\marzano\Downloads\STR\PublicTransportTracker\PublicTransportTracker\bin\System.Web.Optimization.xml
+C:\Users\marzano\Downloads\STR\PublicTransportTracker\PublicTransportTracker\bin\System.Web.Razor.xml
+C:\Users\marzano\Downloads\STR\PublicTransportTracker\PublicTransportTracker\bin\System.Web.WebPages.xml
+C:\Users\marzano\Downloads\STR\PublicTransportTracker\PublicTransportTracker\bin\System.Web.WebPages.Deployment.xml
+C:\Users\marzano\Downloads\STR\PublicTransportTracker\PublicTransportTracker\bin\System.Web.WebPages.Razor.xml
+C:\Users\marzano\Downloads\STR\PublicTransportTracker\PublicTransportTracker\bin\Antlr3.Runtime.pdb
+C:\Users\marzano\Downloads\STR\PublicTransportTracker\PublicTransportTracker\bin\Newtonsoft.Json.xml
+C:\Users\marzano\Downloads\STR\PublicTransportTracker\PublicTransportTracker\bin\EntityFramework.xml
+C:\Users\marzano\Downloads\STR\PublicTransportTracker\PublicTransportTracker\bin\EntityFramework.SqlServer.xml
+C:\Users\marzano\Downloads\STR\PublicTransportTracker\PublicTransportTracker\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\marzano\Downloads\STR\PublicTransportTracker\PublicTransportTracker\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\marzano\Downloads\STR\PublicTransportTracker\PublicTransportTracker\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\marzano\Downloads\STR\PublicTransportTracker\PublicTransportTracker\bin\Microsoft.Owin.xml
+C:\Users\marzano\Downloads\STR\PublicTransportTracker\PublicTransportTracker\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\marzano\Downloads\STR\PublicTransportTracker\PublicTransportTracker\bin\Microsoft.Owin.Security.xml
+C:\Users\marzano\Downloads\STR\PublicTransportTracker\PublicTransportTracker\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\marzano\Downloads\STR\PublicTransportTracker\PublicTransportTracker\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\marzano\Downloads\STR\PublicTransportTracker\PublicTransportTracker\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\marzano\Downloads\STR\PublicTransportTracker\PublicTransportTracker\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\marzano\Downloads\STR\PublicTransportTracker\PublicTransportTracker\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\marzano\Downloads\STR\PublicTransportTracker\PublicTransportTracker\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\marzano\Downloads\STR\PublicTransportTracker\PublicTransportTracker\obj\Debug\PublicTransportTracker.dll
+C:\Users\marzano\Downloads\STR\PublicTransportTracker\PublicTransportTracker\obj\Debug\PublicTransportTracker.pdb
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\ClearScript.dll
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\JavaScriptEngineSwitcher.ChakraCore.dll
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\JavaScriptEngineSwitcher.Core.dll
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\JavaScriptEngineSwitcher.Msie.dll
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\JavaScriptEngineSwitcher.V8.dll
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\JSPool.dll
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\MsieJavaScriptEngine.dll
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\React.Core.dll
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\React.Web.dll
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\React.Web.Mvc4.dll
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\VroomJs.dll
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\WebActivatorEx.dll
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\JavaScriptEngineSwitcher.ChakraCore.xml
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\JavaScriptEngineSwitcher.Core.xml
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\JavaScriptEngineSwitcher.Msie.xml
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\JavaScriptEngineSwitcher.V8.xml
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\JSPool.xml
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\MsieJavaScriptEngine.xml
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\React.Core.xml
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\React.Web.xml
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\React.Web.Mvc4.xml
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\VroomJs.xml
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\ru-ru\JavaScriptEngineSwitcher.ChakraCore.resources.dll
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\ru-ru\JavaScriptEngineSwitcher.Core.resources.dll
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\ru-ru\JavaScriptEngineSwitcher.V8.resources.dll
+C:\Users\mathe\OneDrive\Documentos\Visual Studio 2015\Projects\PublicTransportTracker\PublicTransportTracker\bin\ru-ru\MsieJavaScriptEngine.resources.dll

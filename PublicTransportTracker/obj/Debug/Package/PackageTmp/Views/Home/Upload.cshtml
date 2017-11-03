@@ -1,0 +1,62 @@
+﻿@model PublicTransportTracker.Models.UploadModel
+@{
+    ViewBag.Title = "Upload";
+}
+<div align="center">
+    <h3>Public Transport Data</h3>
+    <br />
+    @if (ViewBag.error != null)
+    {
+        <div class="alert alert-danger">
+            <h6>@ViewBag.error</h6>
+        </div>
+    }
+    <br />
+    <div class="container">
+        @using (Html.BeginForm("Upload", "Upload", FormMethod.Post, new { enctype = "multipart/form-data" }))
+        {
+            <div class="form-group">
+                <label for="countryName">Country:</label>
+                <input type="text" class="form-control" name="countryName">
+            </div>
+            <div class="form-group">
+                <label for="cityName">City:</label>
+                <input type="text" class="form-control" name="cityName">
+            </div>
+            <div class="form-group">
+                <label for="agencyFile">Agency File:</label>
+                <input type="file" class="form-control-file" name="agencyFile">
+            </div>
+            <div class="form-group">
+                <label for="calendarFile">Calendar File:</label>
+                <input type="file" class="form-control-file" name="calendarFile">
+            </div>
+            <div class="form-group">
+                <label for="routesFile">Routes File:</label>
+                <input type="file" class="form-control-file" name="routesFile">
+            </div>
+            <div class="form-group">
+                <label for="shapesFile">Shapes File:</label>
+                <input type="file" class="form-control-file" name="shapesFile">
+            </div>
+            <div class="form-group">
+                <label for="tripsFile">Trips File:</label>
+                <input type="file" class="form-control-file" name="tripsFile">
+            </div>
+            <div class="form-group">
+                <label for="stopsFile">Stops File:</label>
+                <input type="file" class="form-control-file" name="stopsFile">
+            </div>
+            <div class="form-group">
+                <label for="stopTimesFile">Stop Times File:</label>
+                <input type="file" class="form-control-file" name="stopTimesFile">
+            </div>
+
+
+
+            <button type="submit" class="btn btn-default">Submit</button>
+
+
+        }
+    </div>
+</div>

@@ -1,0 +1,29 @@
+﻿@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    @Styles.Render("~/Content/css")
+    @Styles.Render("~/Content/mapStyle")
+    @Scripts.Render("~/bundles/map")
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/jqueryval")
+    <meta name="viewport" content="width=device-width" />
+    <title>Map</title>
+    <script src="https://code.jquery.com/jquery.min.js"></script>
+    <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?key= AIzaSyALTfL9_PHe6_QnoK0FSKk9FWb0fey6TsQ&sensor=false"></script>
+
+</head>
+
+
+<body onload="openMap();">
+
+
+    @Html.Partial("~/Views/Shared/TopMenu.cshtml")
+    @Html.Partial("~/Views/Shared/SideMenu.cshtml")
+    <div id="map_canvas" style="width: 100%; height: 100%; position: absolute">
+
+        @Scripts.Render("~/bundles/bootstrap")
+</body>
+</html> 
